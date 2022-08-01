@@ -2,7 +2,7 @@
 desde la importación principal Añadir
 
 def TestAdd():
-         afirmar Add(2,3) == 5
+         afirmar Add(3,3) == 6
         print( "Añadir función funciona correctamente" )
 
 si __nombre__ == '__principal__' :
